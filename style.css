@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+/* || RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font: 1.5rem "Nunito", sans-serif;
+  min-height: 100vh;
+
+  
+  background-image: url('../img/WhatsApp Image 2025-07-14 at 00.29.59.jpeg'),
+  radial-gradient(#f5d5e0, #c874b2,#7b337d,#430d4b,#210535);
+  
+  background-size: cover, cover;
+  background-repeat: no-repeat, no-repeat;
+  background-position: center, center;
+  
+  background-blend-mode: screen, color-dodge;
+  
+}
